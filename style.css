@@ -54,6 +54,12 @@ header p {
   font-size: 0.95rem;
 }
 
+.header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
 
 /* =========================
    ナビゲーション
